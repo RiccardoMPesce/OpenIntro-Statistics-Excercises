@@ -1,6 +1,6 @@
-# OpenIntro Statistics exercises and walkthrough
+# OpenIntro Statistics solved exercises
 
-#### OpenIntro Statistics excercises solved using Python (and maybe R, too).
+##### OpenIntro Statistics excercises and walkthrough solved using Python
 
 ## Chapters
 
