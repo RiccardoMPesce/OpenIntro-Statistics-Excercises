@@ -4,4 +4,5 @@
 
 ## Chapters
 
-### 1. Introduction to Data
+### [1. Introduction to Data](https://github.com/RiccardoMPesce/OpenIntro-Statistics-Excercises/chapter1/)
+### [2. Summarizing Data](https://github.com/RiccardoMPesce/OpenIntro-Statistics-Excercises/chapter2/)
