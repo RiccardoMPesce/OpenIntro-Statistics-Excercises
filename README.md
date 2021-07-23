@@ -1,4 +1,4 @@
-# OpenIntro Statistics solved exercises
+# OpenIntro Statistics Assignments
 
 ##### OpenIntro Statistics excercises and walkthrough solved using Python
 
