@@ -2,3 +2,4 @@
 
 * ### [Walkthrough](https://github.com/RiccardoMPesce/OpenIntro-Statistics-Excercises/tree/main/chapter2/chapter2_walkthrough.ipynb)
 * ### [Laboratory](https://github.com/RiccardoMPesce/OpenIntro-Statistics-Excercises/tree/main/chapter2/chapter2_lab.ipynb)
+* ### [Extra Laboratory](https://github.com/RiccardoMPesce/OpenIntro-Statistics-Excercises/tree/main/chapter2/chapter2_extra_lab.ipynb)
