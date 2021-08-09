@@ -1,6 +1,6 @@
 # OpenIntro Statistics Assignments
 
-##### OpenIntro Statistics excercises and walkthrough solved using Python
+OpenIntro Statistics excercises and walkthrough solved using Python. The book together with other free resources can be found [here](https://www.openintro.org/).
 
 ## Chapters
 
